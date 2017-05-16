@@ -1,17 +1,17 @@
 Manifest-Version: 1.0
-Atlassian-Build-Date: 2017-05-16T13:25:28+0200
-Atlassian-Plugin-Key: com.atlassian.plugins.tutorial.refapp.AdminUI
-Bnd-LastModified: 1494933938482
+Atlassian-Build-Date: 2017-05-16T15:59:06+0200
+Atlassian-Plugin-Key: com.atlassian.plugins.excon.refapp.ExCon
+Bnd-LastModified: 1494943159921
 Build-Jdk: 1.8.0_131
 Built-By: alexander
-Bundle-Description: This is a plugin for syncing the Exchange calendar w
- ith the Confluence calendar
+Bundle-Description: Plugin that 1-way synchronizes Outlook Exchange to T
+ eam Calendar plugin in Confluence
 Bundle-DocURL: https://tcomkproj2017.wixsite.com/project
 Bundle-ManifestVersion: 2
-Bundle-Name: AdminUI
-Bundle-SymbolicName: com.atlassian.plugins.tutorial.refapp.AdminUI
+Bundle-Name: ExCon
+Bundle-SymbolicName: com.atlassian.plugins.excon.refapp.ExCon
 Bundle-Vendor: ExCon
-Bundle-Version: 1.0.0.SNAPSHOT
+Bundle-Version: 1.0.0
 Created-By: Apache Maven Bundle Plugin
 Export-Package: com.atlassian.plugins.tutorial.refapp.api;version="1.0.0
  "
